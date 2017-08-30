@@ -9,15 +9,15 @@ TPL Collection Version 0.93.1
 
 * xerces-c 3.1.2
 * curl 7.3.7
-* zlib 1.2.6
+* zlib 1.2.11
 * ccse 1.3.4
-* unitest-cpp 1.5
-* boost 1.6.1
-* hdf5 1.8.8
-* netcdf 4.3.2
+* unitest-cpp 2.0.0
+* boost 1.63
+* hdf5 1.8.18
+* netcdf 4.4.1.1.
 * netcdf fortran 4.2
 * silo 4.10.2
-* mstk 2.62rc2
+* mstk 3.0.1
 * ascem-io 2.2
 * exodus 6.06
 * metis 5.1.0
@@ -25,9 +25,10 @@ TPL Collection Version 0.93.1
 * hypre 2.10.0b
 * superlu 4.3
 * superlu_dist 3.3
-* petsc 5.3.2
-* trilinos 12.6.3
+* petsc 3.5.2
+* trilinos 12.10.1
 * pflotran-dev 611092f80ddb
-* alquimia 0.3.1
+* alquimia 1.0.4
+* crunchtope 160915-c31ecb9
 
 
