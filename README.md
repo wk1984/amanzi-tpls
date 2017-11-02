@@ -23,11 +23,11 @@ TPL Collection Version 0.93.1
 * metis 5.1.0
 * parmetis 4.0.3a
 * hypre 2.10.0b
-* superlu 4.3
-* superlu_dist 3.3
-* petsc 3.5.2
+* superlu 5.2.1
+* superlu_dist 5.1.3
+* petsc 3.7.5 xsdk-0.2.0
 * trilinos 12.10.1
-* pflotran-dev 611092f80ddb
+* pflotran xsdk-0.2.0
 * alquimia 1.0.4
 * crunchtope 160915-c31ecb9
 
